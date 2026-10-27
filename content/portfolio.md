@@ -1,6 +1,6 @@
 # Portfolio de compétences
 
-**Orientation :**
+**Orientation :** Géographie, environnemtent et sociétés
 
 [Lien de l'arbre des connaissances](https://gse-sondage.unil.ch/quiz-rentree-fgse/arbre/) *(filtre sur ton orientation)*
 
@@ -10,11 +10,11 @@
 
 *Celles que tu reconnais, pas celles que tu devrais avoir. La référence suffit, par ex. TELEDE-3, avec trois mots d'intitulé.*
 
-1. 
-2. 
-3. 
-4. 
-5. 
+1. GEOGECON-1/2
+2. AMENTERR-1/2
+3. METHENQUANAL-1
+4. GEOINFII-1
+5. DYNAURBACAM-1
 
 ---
 
